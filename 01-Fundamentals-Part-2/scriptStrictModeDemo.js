@@ -7,6 +7,5 @@ if(passTest) hasDriversLicense = true;
 if(hasDriversLicense) console.log('I can driver :D');
 
 //const interface = 'Audio';
-
-const private = 123;
+//const private = 123;
 
