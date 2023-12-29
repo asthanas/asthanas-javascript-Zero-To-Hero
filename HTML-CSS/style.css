@@ -1,5 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*box-sizing: border-box; */
+}
+
 body {
     background-color: #f3f391;
     font-family: Arial;
+    font-size: 20px;
+    padding: 50px;
 }
 
+h1 {
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.first {
+    color: red;
+}
+
+#your-name {
+    background-color: #f0c53a;
+    border: 5px solid #444;
+    width: 400px;
+    padding: 25px;
+    margin-top: 30px;
+}
+
+input,
+button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+a {
+    background-color: yellowgreen;
+}
+
+#myImage {
+    width: 300px;
+    height: 300px;
+}
+#your-name h2 {
+    color: olivedrab;
+}
